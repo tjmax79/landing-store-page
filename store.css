@@ -1,0 +1,31 @@
+.banner-card >{
+    width: 100px;
+    height: 100px;
+
+}
+
+
+.banner-card{
+    position: relative;
+}
+
+.banner-text{
+    position: absolute;
+    top: 0;
+    color: aqua;
+    padding: 10px;
+    
+
+}.banner-text h4{
+    font-size: 50px;
+    font-family: swap;
+}
+
+h1{
+    text-align: right;
+}
+h2{
+ justify-content: center;
+}
+
+h5{text text-align: border: ;}
